@@ -1,62 +1,41 @@
-## Status
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<p align="left">
-  <a href="https://github.com/nazozokc">
-    <img src="https://komarev.com/ghpvc/?username=nazozokc&style=plastic" alt="nazozo" />
-  </a>
-  <a href="https://github.com/nazozokc">
-    <img height="20" src="https://img.shields.io/github/followers/nazozokc?label=follow&logo=github&style=plastic" />
-  </a>
-</p>
-
-<p align="left">
-  <img alt="Top Langs" height="195px"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazozokc&layout=donut&show_icons=true&theme=radical" />
-  <img alt="github stats" height="195px"
-       src="https://github-readme-stats.vercel.app/api?username=nazozokc&show_icons=true&theme=radical" />
-  <img alt="contributions" height="300px"
-       src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazozokc&theme=2077">
-</p>
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<img alt="trophy" height="190px"
-     src="https://github-profile-trophy.vercel.app/?username=nazozokc&margin-w=5&theme=radical">
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-## Repository
-
-[![dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=nazozokc&repo=dotfiles&theme=radical)](https://github.com/nazozokc/dotfiles)
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-## Skills
+<h1 align="center">nazozo</h1>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim" />
-  </a>
+  <b>Student / Linux & Code</b><br>
+  Neovimで全部やりたい人
 </p>
 
-## Studying
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nazozo&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazozo&layout=compact&theme=tokyonight&hide_border=true" height="165">
+</p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,linux,ts,lua" />
-  </a>
+  <img src="https://img.shields.io/badge/Editor-Neovim-57A143?logo=neovim&logoColor=white">
+  <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?logo=arch-linux&logoColor=white">
 </p>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+---
 
-<div align="center">
+## 🛠 Learning
+- **TypeScript**
+- **Lua**
+- **Git / GitHub**
+- **Neovim**（設定いじりながら修行中）
 
-```text
-   ███╗   ██╗ █████╗ ███████╗ ██████╗ ███████╗ ██████╗
-   ████╗  ██║██╔══██╗╚══███╔╝██╔═══██╗╚══███╔╝██╔═══██╗
-   ██╔██╗ ██║███████║  ███╔╝ ██║   ██║  ███╔╝ ██║   ██║
-   ██║╚██╗██║██╔══██║ ███╔╝  ██║   ██║ ███╔╝  ██║   ██║
-   ██║ ╚████║██║  ██║███████╗╚██████╔╝███████╗╚██████╔╝
-   ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚══════╝ ╚═════╝
+---
+
+## ⚡ Environment
+- Arch Linux
+- Wayland / KDE Plasma
+- Neovim main editor
+- 自作・カスタム環境が好き
+
+---
+
+<p align="center">
+  <i>Learning by breaking things.</i>
+</p>
