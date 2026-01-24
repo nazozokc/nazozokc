@@ -19,7 +19,7 @@
 ## 🛠 Learning
 - **TypeScript**（基礎・まだ書ける段階ではない）
 - **Lua**（Neovim設定を書きながら学習中）
-- Git / GitHub（使えるが修行中）
+- **Git / GitHub**（使えるが修行中）
 
 ---
 
@@ -43,8 +43,6 @@
 - Linux / Wayland / DE 関連の設定ファイル
 - TypeScript・Luaの練習コード
 - 実験して途中で止まったリポジトリも普通にある
-
-※完成度より「理解と検証」優先
 
 ---
 
