@@ -1,9 +1,50 @@
-<h1 align="center">nazozo</h1>
+<h1 align="center">nazozokc</h1>
 
 <p align="center">
-  <b>Student / Linux & Code</b><br>
-  Neovimで全部やりたい人
+  <b>Student / Linux・Neovim</b><br>
+  GUIより設定ファイル、IDEよりNeovim
 </p>
+
+---
+
+## 👤 About Me
+- 中学生
+- Arch Linux 常用
+- Neovimですべて完結させたい人
+- 壊して直して理解するタイプ
+- Linux・エディタ・環境構築を触ってる時間が一番長い
+
+---
+
+## 🛠 Learning
+- **TypeScript**（基礎・まだ書ける段階ではない）
+- **Lua**（Neovim設定を書きながら学習中）
+- Git / GitHub（使えるが修行中）
+
+---
+
+## 🧠 Interests
+- Linux（Arch / Wayland / KDE / niri）
+- Neovim（Lua設定・プラグイン構成）
+- 軽くて自分向けな開発環境づくり
+
+---
+
+## 🛠 Environment
+- OS: EndeavourOS
+- WM / DE: Wayland, KDE Plasma, niri
+- Editor: Neovim（メイン）
+- Shell / CLI 中心の作業環境
+
+---
+
+## 📂 What You’ll Find Here
+- Neovim 設定（Lua・試行錯誤の塊）
+- Linux / Wayland / DE 関連の設定ファイル
+- TypeScript・Luaの練習コード
+- 実験して途中で止まったリポジトリも普通にある
+
+※完成度より「理解と検証」優先
 
 ---
 
@@ -16,26 +57,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Editor-Neovim-57A143?logo=neovim&logoColor=white">
   <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?logo=arch-linux&logoColor=white">
+  <img src="https://img.shields.io/badge/WM-Wayland-blue">
 </p>
 
 ---
 
-## 🛠 Learning
-- **TypeScript**
-- **Lua**
-- **Git / GitHub**
-- **Neovim**（設定いじりながら修行中）
-
----
-
-## ⚡ Environment
-- Arch Linux
-- Wayland / KDE Plasma
-- Neovim main editor
-- 自作・カスタム環境が好き
-
----
-
 <p align="center">
-  <i>Learning by breaking things.</i>
+  <i>Break it. Fix it. Learn it.</i>
 </p>
