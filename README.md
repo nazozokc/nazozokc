@@ -8,7 +8,6 @@
 ---
 
 ## 👤 About Me
-- 中学生
 - Arch Linux 常用
 - Neovimですべて完結させたい人
 - 壊して直して理解するタイプ
@@ -17,9 +16,9 @@
 ---
 
 ## 🛠 Learning
-- **TypeScript**（基礎・まだ書ける段階ではない）
+- **TypeScript**（まだ書ける段階ではない）
 - **Lua**（Neovim設定を書きながら学習中）
-- **Git / GitHub**（使えるが修行中）
+- **Git / GitHub**（修行中）
 
 ---
 
@@ -35,14 +34,6 @@
 - WM / DE: Wayland, KDE Plasma, niri
 - Editor: Neovim（メイン）
 - Shell / CLI 中心の作業環境
-
----
-
-## 📂 What You’ll Find Here
-- Neovim 設定（Lua・試行錯誤の塊）
-- Linux / Wayland / DE 関連の設定ファイル
-- TypeScript・Luaの練習コード
-- 実験して途中で止まったリポジトリも普通にある
 
 ---
 
