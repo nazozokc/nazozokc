@@ -9,8 +9,7 @@
 
 ## 👤 About Me
 - Arch Linux 常用
-- Neovimですべて完結させたい人
-- 壊して直して理解するタイプ
+- Neovimですべて完結させたい
 - Linux・エディタ・環境構築を触ってる時間が一番長い
 
 ---
@@ -33,7 +32,8 @@
 - OS: EndeavourOS
 - WM / DE: Wayland, KDE Plasma, niri
 - Editor: Neovim（メイン）
-- Shell / CLI 中心の作業環境
+- Shell: fish
+- terminal: wezterm
 
 ---
 
