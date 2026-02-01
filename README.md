@@ -65,9 +65,3 @@
   <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?logo=arch-linux&logoColor=white">
   <img src="https://img.shields.io/badge/WM-Wayland-blue">
 </p>
-
----
-
-<p align="center">
-  <i>Break it. Fix it. Learn it.</i>
-</p>
