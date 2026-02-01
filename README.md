@@ -34,13 +34,10 @@
 ## 🛠 Environment
 
 - OS: EndeavourOS
-  <<<<<<< HEAD
 - WM / DE: Wayland, KDE Plasma, niri
 - Editor: Neovim（メイン）
 - Shell: fish
-- # terminal: wezterm
-- WM / DE:KDE Plasma, niri
-- Editor: Neovim
+- Terminal: wezterm
 - Shell / CLI 中心の作業環境
 
 ---
@@ -56,8 +53,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=@nazozokc&show_icons=true&theme=tokyonight&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=@nazozokc&layout=compact&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=nazozokc&show_icons=true&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazozokc&layout=compact&theme=tokyonight&hide_border=true">
 </p>
 
 <p align="center">
