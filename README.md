@@ -52,7 +52,5 @@
 
 ## 📊 GitHub Stats
 
-<p align="left"> 
-  <img alt="TopLangs" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazozokc&theme=transparent&layout=compact"/>
-  <img alt="githubStats" height="250px" src="https://github-readme-stats.vercel.app/api?username=nazozokc&theme=transparent&show_icons=ture"/>
-</p>
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazozokc)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazozokc)](https://github.com/anuraghazra/github-readme-stats)
