@@ -52,13 +52,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazozokc&show_icons=true&theme=tokyonight&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazozokc&layout=compact&theme=tokyonight&hide_border=true">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Editor-Neovim-57A143?logo=neovim&logoColor=white">
-  <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?logo=arch-linux&logoColor=white">
-  <img src="https://img.shields.io/badge/WM-Wayland-blue">
+<p align="left"> 
+  <img alt="TopLangs" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazozokc&theme=transparent&layout=compact"/>
+  <img alt="githubStats" height="250px" src="https://github-readme-stats.vercel.app/api?username=nazozokc&theme=transparent&show_icons=ture"/>
 </p>
