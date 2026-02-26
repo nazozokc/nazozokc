@@ -50,8 +50,12 @@
 
 ---
 
-## 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazozokc)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats & Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nazozokc&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&hide_border=true&v=6" width="100%" />
+  
+  <br><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazozokc)](https://github.com/anuraghazra/github-readme-stats)
-
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=nazozokc&theme=tokyonight&hide_border=true&v=6" height="195" />
+  <img alt="Top Langs" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="195" />
+</div>
