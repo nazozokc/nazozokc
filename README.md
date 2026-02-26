@@ -57,5 +57,4 @@
   <br><br>
 
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=nazozokc&theme=tokyonight&hide_border=true&v=6" height="195" />
-  <img alt="Top Langs" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="195" />
 </div>
