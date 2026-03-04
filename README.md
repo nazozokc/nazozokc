@@ -51,7 +51,5 @@
 ---
 
 ## 📊 GitHub Stats & Activity
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nazozokc&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&hide_border=true&v=6" width="100%" />
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=nazozokc&theme=tokyonight&hide_border=true&v=6" height="195" />
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
