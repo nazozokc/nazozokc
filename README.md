@@ -33,7 +33,7 @@
 
 ## 🛠 Environment
 
-- OS: EndeavourOS
+- OS: Arch Linux
 - WM / DE: Wayland, KDE Plasma, niri
 - Editor: Neovim（メイン）
 - Shell: fish
