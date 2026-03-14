@@ -75,9 +75,6 @@
 ---
 
 ## 📊 GitHub Stats & Activity
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nazozokc&count_private=true&show_icons=true" />
-</a>
 <a href="https://github.com/nazozokc">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=nazozokc&count_private=true&show_icons=true&theme=transparent&bg_color=1F1F28&title_color=7FB4CA&text_color=DCD7BA&icon_color=98BB6C&border_color=2A2A37" />
 </a>
