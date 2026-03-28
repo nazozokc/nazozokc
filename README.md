@@ -13,7 +13,7 @@
 ```fish
 ❯ cat about.json
 {
-  "os":     "Arch Linux",
+  "os":     "Windows11", "Arch Linux",
   "editor": "Neovim",
   "shell":  "fish",
   "wm":     ["KDE Plasma", "niri (Wayland)"],
@@ -57,8 +57,7 @@
 
 ## 🛠 Environment
 
-- OS: Arch Linux
-- WM / DE: Wayland, KDE Plasma, niri
+- OS: Windows11, Arch Linux
 - Editor: Neovim（メイン）
 - Shell: fish
 - Terminal: wezterm
@@ -69,7 +68,6 @@
 ## 📂 What You'll Find Here
 
 - Neovim 設定（Lua・試行錯誤の塊）
-- Linux / Wayland / DE 関連の設定ファイル
 - TypeScript・Luaの練習コード
 
 ---
