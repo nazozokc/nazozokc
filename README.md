@@ -17,7 +17,7 @@
   "editor": "Neovim",
   "shell":  "fish",
   "wm":     ["KDE Plasma", "niri (Wayland)"],
-  "status": "dotfiles を磨き続けている中学生"
+  "status": "dotfiles を磨き続けている高専生"
 }
 ```
 
