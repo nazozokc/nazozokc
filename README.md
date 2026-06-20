@@ -16,7 +16,7 @@
   "os":     "Windows11", "Arch Linux",
   "editor": "Neovim",
   "shell":  "fish",
-  "wm":     ["KDE Plasma", "niri (Wayland)"],
+  "wm":     ["KDE Plasma"],
   "status": "dotfiles を磨き続けている高専生"
 }
 ```
