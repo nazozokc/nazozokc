@@ -88,14 +88,6 @@ Neovim、シェル、Linux環境などを管理しているdotfiles。
 
 ---
 
-### [`Aquavium.nvim`](https://github.com/nazozokc/Aquavium.nvim)
-
-> Neovimを自分好みにする。
-
-Neovim環境を構築・実験するためのプロジェクト。
-
----
-
 ## `$ cat philosophy.md`
 
 ```text
