@@ -24,6 +24,8 @@
 
 ---
 
+[![GitHub Commits Badge](https://ghcommits.com/api/badge/nazozokc.svg)](https://ghcommits.com)
+
 ## `$ ls ~/stack`
 
 <div align="center">
