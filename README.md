@@ -34,7 +34,7 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![Nix](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge\&logo=nixos\&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge\&logo=arch-linux\
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge\&logo=arch-linux\&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge\&logo=neovim\&logoColor=white)
 ![Fish](https://img.shields.io/badge/Fish-4EAA25?style=for-the-badge\&logo=fishshell\&logoColor=white)
 ![WezTerm](https://img.shields.io/badge/WezTerm-4E49EE?style=for-the-badge\&logo=wezterm\&logoColor=white)
