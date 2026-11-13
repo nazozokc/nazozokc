@@ -52,7 +52,7 @@
 
 ## `$ ls ~/projects`
 
-### [`orbase`](https://github.com/nazozokc/orbase)
+### [`mybase`](https://github.com/nazozokc/mybase)
 
 > CLIで人生を管理するためのツール。
 
