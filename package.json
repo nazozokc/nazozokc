@@ -1,5 +1,6 @@
 {
   "name": "nazozokc",
+  "version": "1.0.0",
   "url": "https://github.com/nazozokc/nazozokc",
   "module": "index.mjs",
   "bin": {
