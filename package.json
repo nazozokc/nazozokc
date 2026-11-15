@@ -6,6 +6,11 @@
   "bin": {
     "nazozokc": "./index.mjs"
   },
+  "files": [
+    "index.mjs",
+    "README.md",
+    "LICENSE"
+  ],
   "devDependencies": {
     "@types/bun": "latest"
   },
