@@ -60,7 +60,7 @@
 
 **TypeScript / Bun / Markdown / JSON**
 
-Published on npm as `@nazozokc/orbase`.
+Published on npm as `mybase-cli`.
 
 ---
 
