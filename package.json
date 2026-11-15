@@ -1,0 +1,17 @@
+{
+  "name": "nazozokc",
+  "url": "https://github.com/nazozokc/nazozokc",
+  "module": "index.mjs",
+  "bin": {
+    "nazozokc": "./index.mjs"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^7"
+  },
+  "dependencies": {
+    "open": "^11.0.4"
+  }
+}
